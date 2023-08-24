@@ -3,9 +3,11 @@ It's a repository for Medical 3D printing modeling software evaluation using Pha
 
 ## Abstract
 
-## Acknowledgement & Disclosure
+## CT Data 
 
-## License
+## Data License
+
+## Acknowledgement & Disclosure
 
 ## Citation
 
