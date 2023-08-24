@@ -1,2 +1,13 @@
 # Medical3DP-SW-Evaluation
-Medical 3D printing modeling software evaluation using phantom 
+It's a repository for Medical 3D printing modeling software evaluation using Phantom.
+
+## Abstract
+
+## Acknowledgement & Disclosure
+
+## License
+
+## Citation
+
+## Contact 
+
