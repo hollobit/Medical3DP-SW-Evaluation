@@ -1,9 +1,15 @@
 # Medical3DP-SW-Evaluation
+
 It's a repository for Medical 3D printing modeling software evaluation using Phantom.
 
 ## Abstract
 
-## CT Data 
+The goal of this project is the development and standardization of Phantom for Medical 3D Printing Software Performance Evaluation.
+
+## Example of DICOM CT Data for self-testing 
+
+** [Phantom V4 #1 Mandible](/DICOM/Phantom_V4_1_Mandible) (40MB)
+** [Phantom V4 #3 Cone](/DICOM/Phantom_V4_3_Cone) (42MB)
 
 ## Data License
 
@@ -19,6 +25,8 @@ This work is licensed under a
 [cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
 
 ## Acknowledgement & Disclosure
+
+This project was carried out as a joint research project by the Ministry of Food and Drug Safety and ETRI, and the research participating institutions included Yonsei University, Coreline Soft, and Seoul Women's University to develop the phantom and standard. 
 
 ## Citation
 
