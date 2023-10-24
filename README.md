@@ -6,6 +6,12 @@ It's the official repository of the EYC standard phantom for Medical 3D printing
 
 This project aims to develop and standardize Phantom for Medical 3D Printing Software Performance Evaluation.
 
+## Standards and Guidelines for evaluation 
+
+* Internation Standard 
+* Domestic Standard
+* MFDS Guideline
+
 ## DICOM CT Data for self-testing 
 
 These DICOM data are open data released for self-testing. Using this data and the procedures and methods specified in the standard test methods, it is possible to evaluate modeling SW's precision/accuracy performance.
