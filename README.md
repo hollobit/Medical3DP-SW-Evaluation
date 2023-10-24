@@ -2,17 +2,17 @@
 
 It's the official repository of the EYC standard phantom for Medical 3D printing modeling software performance evaluation.
 
-## Abstract
+## :arrow_right: Abstract
 
 This project aims to develop and standardize Phantom for Medical 3D Printing Software Performance Evaluation.
 
-## Standards and Guidelines for evaluation 
+## :blue_book: Standards and Guidelines for evaluation 
 
 * Internation Standard 
 * Domestic Standard
 * MFDS Guideline
 
-## DICOM CT Data for self-testing 
+## :open_file_folder: DICOM CT Data for self-testing 
 
 These DICOM data are open data released for self-testing. Using this data and the procedures and methods specified in the standard test methods, it is possible to evaluate the Medical 3D printing modeling SW's precision/accuracy performance.
 
@@ -23,7 +23,7 @@ You can check the meta information of the phantom from these DICOM fields.
 * [EYC Phantom V4 #1 Mandible](/DICOM/Phantom_V4_1_Mandible) (40MB)
 * [EYC Phantom V4 #3 Cone](/DICOM/Phantom_V4_3_Cone) (42MB)
 
-## Data License
+## :heavy_exclamation_mark: Data License
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
@@ -36,14 +36,22 @@ These data are licensed under a
 [cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
 [cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
 
-## Acknowledgement & Disclosure
+Any commercial use should get formal permission first.
+
+## :clap: Acknowledgement & Disclosure
 
 This project was carried out as a joint research project by the MFDS([Ministry of Food and Drug Safety](https://mfds.go.kr/eng/index.do)) and [ETRI](https://www.etri.re.kr/eng/main/main.etri), and the research participating institutions included [Yonsei University](https://www.yonsei.ac.kr/en_sc/), [Coreline Soft](https://www.corelinesoft.com/en/), and [Seoul Women's University](https://www.swu.ac.kr/englishindex.do) to develop the phantom and standard. 
 
-## Contributors 
+This repository is maintained by [Jonghong Jeon](https://hollobit.github.io).
 
-## Citation
+## :fire: Contributors 
 
-## Contact 
+The project was made possible with the help of many contributors (alphabetical):
 
+Chanmi Yeon, Chunil Lim, Helen Hong, Kyuwon Shim, Jonghong Jeon, Semyeong Jang, Seungho Son
 
+## :book: Citation
+
+## :postbox: Contact 
+
+If you have any question, please feel free to contact us via 'hollobit@etri.re.kr'.
