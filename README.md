@@ -8,8 +8,8 @@ The goal of this project is the development and standardization of Phantom for M
 
 ## Example of DICOM CT Data for self-testing 
 
-** [Phantom V4 #1 Mandible](/DICOM/Phantom_V4_1_Mandible) (40MB)
-** [Phantom V4 #3 Cone](/DICOM/Phantom_V4_3_Cone) (42MB)
+* [Phantom V4 #1 Mandible](/DICOM/Phantom_V4_1_Mandible) (40MB)
+* [Phantom V4 #3 Cone](/DICOM/Phantom_V4_3_Cone) (42MB)
 
 ## Data License
 
