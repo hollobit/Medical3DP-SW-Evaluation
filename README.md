@@ -11,6 +11,7 @@ This project aims to develop and standardize Phantom for Medical 3D Printing Sof
 * Internation Standard 
 * Domestic Standard
 * MFDS Guideline
+  *  [의료기기 - 3D 프린팅 의료기기 모델링 절차 검증방법 정보자료집](https://www.nifds.go.kr/brd/m_18/view.do?seq=12739&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1) (Published 2023-11-01)
 
 ## :open_file_folder: DICOM CT Data for self-testing 
 
@@ -40,6 +41,8 @@ Any commercial use should get formal permission first.
 
 ## :clap: Acknowledgement & Disclosure
 
+This research was supported by a grant (21174MFDS224) from the Ministry of Food and Drug Safety in 2021-2023.
+
 This project was carried out as a joint research project by the MFDS([Ministry of Food and Drug Safety](https://mfds.go.kr/eng/index.do)) and [ETRI](https://www.etri.re.kr/eng/main/main.etri), and the research participating institutions included [Yonsei University](https://www.yonsei.ac.kr/en_sc/), [Coreline Soft](https://www.corelinesoft.com/en/), and [Seoul Women's University](https://www.swu.ac.kr/englishindex.do) to develop the phantom and standard. 
 
 This repository is maintained by [Jonghong Jeon](https://hollobit.github.io).
@@ -48,7 +51,7 @@ This repository is maintained by [Jonghong Jeon](https://hollobit.github.io).
 
 The project was made possible with the help of many contributors (alphabetical):
 
-Chanmi Yeon, Chunil Lim, Helen Hong, Kyuwon Shim, Jonghong Jeon, Semyeong Jang, Seungho Son
+Chanmi Yeon, Chunil Lim, Helen Hong, Jonghong Jeon, Jongseon Park, Kyuwon Shim, , Semyeong Jang, Seungho Son
 
 ## :book: Citation
 
